@@ -1,7 +1,7 @@
 # tic-tac-toe
 
-This project uses the minmax algorithm to have an unbeatable tic-tac-toe bot
-To run, just run the TicTacToe.py file
+This project uses the minmax algorithm to have an unbeatable tic-tac-toe bot.
+To run, just run the Tic Tac Toe.py file
 
 
 Sets up tic tac toe using pygame as the interface,
